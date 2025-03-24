@@ -20,6 +20,8 @@
     "@progress/kendo-react-labels": "^10.0.0",
     "@progress/kendo-react-layout": "^10.0.0",
     "@progress/kendo-react-progressbars": "^10.0.0",
+    "@progress/kendo-react-ripple": "^10.0.0",
+    "@progress/kendo-react-tooltip": "^10.0.0",
     "@progress/kendo-svg-icons": "^4.0.0",
     "@progress/kendo-theme-default": "^10.4.0",
     "@progress/kendo-theme-material": "^10.4.0",
